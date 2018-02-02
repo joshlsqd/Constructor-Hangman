@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "homework ",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshlsqd/Constructor-Hangman.git"
+  },
+  "author": "Joshua Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshlsqd/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/joshlsqd/Constructor-Hangman#readme"
+}
